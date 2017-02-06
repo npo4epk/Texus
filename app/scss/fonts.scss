@@ -1,0 +1,12 @@
+//*********************************************
+// @IMPORT
+//*********************************************
+@import "_mixins.scss";
+
+//*********************************************
+// FONTS
+//*********************************************
+
+
+@include font-face("Tahoma-Regular", "../fonts/Tahoma-Regular/Tahoma-Regular", normal, normal, eot otf woff ttf svg);
+@include font-face("Tahoma-Bold", "../fonts/Tahoma-Bold/Tahoma-Bold", bold, normal, eot otf woff ttf svg);

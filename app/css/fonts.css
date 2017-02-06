@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Tahoma-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Tahoma-Regular/Tahoma-Regular.eot?") format("eot"), url("../fonts/Tahoma-Regular/Tahoma-Regular.otf") format("opentype"), url("../fonts/Tahoma-Regular/Tahoma-Regular.woff") format("woff"), url("../fonts/Tahoma-Regular/Tahoma-Regular.ttf") format("truetype"), url('../fonts/Tahoma-Regular/Tahoma-Regular.svg#str-replace("Tahoma-Regular", " ", "_")') format("svg"); }
+
+@font-face {
+  font-family: "Tahoma-Bold";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/Tahoma-Bold/Tahoma-Bold.eot?") format("eot"), url("../fonts/Tahoma-Bold/Tahoma-Bold.otf") format("opentype"), url("../fonts/Tahoma-Bold/Tahoma-Bold.woff") format("woff"), url("../fonts/Tahoma-Bold/Tahoma-Bold.ttf") format("truetype"), url('../fonts/Tahoma-Bold/Tahoma-Bold.svg#str-replace("Tahoma-Bold", " ", "_")') format("svg"); }
